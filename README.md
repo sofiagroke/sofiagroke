@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sofia 👋</h1>
 
-<h3 align="center">Software Engineering Student | DevOps & QA</h3>
+<h3 align="center">Software Engineering Student | DevOps & QA | UI/UX | Fullstack</h3>
 
 <p align="center">
   <a href="https://github.com/aguainsalubre?tab=followers">
@@ -15,7 +15,7 @@
 
 ### 🎯 About me
 
-I'm a Software Engineering student, currently working on hands-on projects with a focus on back-end and front-end development, **DevOps** and **Software Quality Assurance (QA)**. I enjoy learning by building, testing, and automating development processes.
+I'm a Software Engineering student, currently working on hands-on projects with a focus on back-end and front-end development,**User Interface (UI)**, **User Expirience (UX)** **DevOps** and **Software Quality Assurance (QA)**. I enjoy learning by prototyping, building, testing, and automating development processes.
 
 - 📫 How to reach me: see the links at the bottom of this profile
 
@@ -48,6 +48,7 @@ I'm a Software Engineering student, currently working on hands-on projects with 
 
 | Project | Description |
 |---|---|
+| [**contra-zap**](https://github.com/S06-2026-2/Contra-Zap) | Online card game |
 | [**todo-api**](https://github.com/aguainsalubre/todo-api) | Task management API |
 | [**med-dispose**](https://github.com/aguainsalubre/med-dispose) | JavaScript project |
 | [**cardapio-lanchonete**](https://github.com/aguainsalubre/cardapio-lanchonete) | Project built for a Software Development internship selection process (MIDC) |
