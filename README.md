@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aguainsalubre?tab=followers">
-    <img src="https://img.shields.io/github/followers/aguainsalubre?label=Followers&style=flat-square" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/sofiagroke?label=Followers&style=flat-square" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/aguainsalubre?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-13-blue?style=flat-square" alt="Repositories"/>
