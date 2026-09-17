@@ -49,10 +49,10 @@ I'm a Software Engineering student, currently working on hands-on projects with 
 | Project | Description |
 |---|---|
 | [**contra-zap**](https://github.com/S06-2026-2/Contra-Zap) | Online card game |
-| [**todo-api**](https://github.com/aguainsalubre/todo-api) | Task management API |
-| [**med-dispose**](https://github.com/aguainsalubre/med-dispose) | JavaScript project |
-| [**cardapio-lanchonete**](https://github.com/aguainsalubre/cardapio-lanchonete) | Project built for a Software Development internship selection process (MIDC) |
-| [**petshop**](https://github.com/aguainsalubre/petshop) | Project built for a Software Development internship selection process (MIDC) |
+| [**todo-api**](https://github.com/sofiagroke/todo-api) | Task management API |
+| [**med-dispose**](https://github.com/JoaumPdr/med-dispose-v2) | Winner in 44th FETIN|
+| [**cardapio-lanchonete**](https://github.com/sofiagroke/cardapio-lanchonete) | Project built for a Software Development internship selection process (MIDC) |
+| [**petshop**](https://github.com/sofiagroke/petshop) | Project built for a Software Development internship selection process (MIDC) |
 | [**AiLarica**](https://github.com/C14-2025/AiLarica) | Food delivery app — browse restaurants, place orders, and track deliveries |
 
 ---
